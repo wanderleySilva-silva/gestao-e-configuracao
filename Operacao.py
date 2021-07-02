@@ -20,3 +20,9 @@ class Operacao:
             return 1
         else:
             return a**b
+    
+    def radiciacao(a):
+        return a**0.5
+    
+    def radiciacao(b):
+        return b**0.5
