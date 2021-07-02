@@ -54,6 +54,12 @@ class Calculadora:
             print(opr.potencia(a, b))
         
         elif(opcao == '6'):
+            a = int(input('Digite um número e veja sua raiz quadrada: '))
+            print()
+            
+            print(opr.radiciacao(a))
+            
+        elif(opcao == '7'):
             flag = False
 
         
