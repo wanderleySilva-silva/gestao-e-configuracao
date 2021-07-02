@@ -14,7 +14,8 @@ class Calculadora:
             '3. Multiplicacao\n' +
             '4. Divisao\n' +
             '5. Potencia\n' +
-            '6. Sair')
+            '6. Radiciação\n' +  
+            '7. Sair')
 
         opcao = input('Escolha uma das opções listadas: ')
 
